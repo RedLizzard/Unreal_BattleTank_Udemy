@@ -1,0 +1,25 @@
+[33mcommit a8e3e1768c17491e7e5c737e3b57f2db185ee703[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Brandon Sicobo <b.sicobo@warwick.ac.uk>
+Date:   Fri Jun 29 19:50:59 2018 +0100
+
+    Testing gitbash
+
+[33mcommit d889dbb9c3a3f9a5f415a66c4f07f4b54ac57643[m
+Author: Brandon Sicobo <b.sicobo@warwick.ac.uk>
+Date:   Fri Jun 29 16:27:52 2018 +0100
+
+    Tidying the gitignore
+
+[33mcommit 58fbb52a6017c53bcb8621dad6eebde03c4f14c0[m
+Author: makluv <30487803+makluv@users.noreply.github.com>
+Date:   Tue Jun 26 11:38:55 2018 +0100
+
+    Test-Commit
+    
+    Trivially testing to see how this works
+
+[33mcommit 8fc30bb3e513b472a70e069358fc4b4b12ed5554[m
+Author: makluv <30487803+makluv@users.noreply.github.com>
+Date:   Tue Jun 26 11:34:58 2018 +0100
+
+    Initial commit
